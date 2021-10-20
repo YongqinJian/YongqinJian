@@ -1,4 +1,6 @@
-# Yongqin Jian
+# Welcome, My Friend 👋
 
-<dev>Hello</dev>
+:adult: I'm Yongqin Jian  
+Recent Graduate of *University of Alberta*
+
 
