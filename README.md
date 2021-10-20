@@ -11,7 +11,7 @@
 ## Programming Languages
 
 <p>
-<code><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="HTML tutorial"> </code>
+<code><a href="https://www.python.org"><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="HTML tutorial"> </a></code>
 <a href="https://www.javascript.com/"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </a>
 <a href="https://www.java.com/en/"><img src=https://www.vectorlogo.zone/logos/java/java-ar21.svg> </a>
 </p>
