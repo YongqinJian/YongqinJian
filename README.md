@@ -71,7 +71,7 @@
 <code><img alt="PHP" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 <code><img alt=".net" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
 
-<dev style="font-size:2em;align:center"><i>good software developers can quickly learn new input in no time</i></dev>
+<i style="font-size:2em;align:center">good software developers can quickly learn new input in no time</i>
 <br>
 <br>
 
