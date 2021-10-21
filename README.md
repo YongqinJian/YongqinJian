@@ -71,7 +71,7 @@
 <code><img alt="PHP" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 <code><img alt=".net" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
 
-<i style="font-size:2em;align:center">good software developers can quickly learn new input in no time</i>
+<i style="font-size:2em">good software developers can quickly learn new input in no time</i>
 <br>
 <br>
 
@@ -82,11 +82,10 @@
 # Yongqin's Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongqinjian&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yongqinjian)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yongqinjian)  
+
 
 
 # Connect With Me!
 |	[![LinkedIn](https://img.shields.io/badge/LinkedIn-0773EC?logo=linkedin&logoColor=white)](https://linkedin.com/in/yongqin-jian-b788371a2)|[![LinkedIn](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:jianyqgo@gmail.com)|
 |------|------|
-
-
