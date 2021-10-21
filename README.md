@@ -10,7 +10,7 @@
 # Core Skills
 ## 👨🏻‍💻Programming Languages
 
-<p>
+<p align=center>
 <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
 <a href="http://www.open-std.org/jtc1/sc22/wg14/"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-blue?style=for-the-badge&logo=c-in-hexagon&logoColor=white"></a>
 <a href="https://www.w3schools.com/css/"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -27,7 +27,7 @@
 </p><br>
 
 ## 🧰Frameworks and Libraries
-<p>
+<p align=center>
 <img alt="Django" src="https://img.shields.io/badge/Django-1AD75C?style=for-the-badge&logo=django">
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-C28E0D?style=for-the-badge&logo=firebase">
 <img alt="Flask" src="https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask&logoColor=white">
@@ -43,7 +43,7 @@
 </p><br>
 
 ## 🖥️Software and Tools
-<p>
+<p align=center>
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-green?style=for-the-badge&logo=android-studio&logoColor=white">
 <img alt="Arch Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
