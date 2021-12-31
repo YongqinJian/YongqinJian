@@ -80,9 +80,12 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yongqinjian&repo=social-distribution)](https://github.com/yongqinjian/social-distribution)
 
 # Yongqin's Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongqinjian&show_icons=true)
+![Yongqin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongqinjian&show_icons=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yongqinjian)  
+
+[![Yongqin's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=PuPuBear)]
+
 
 
 
