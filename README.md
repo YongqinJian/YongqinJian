@@ -26,7 +26,7 @@
 
 </p><br>
 
-## 🧰Frameworks and Libraries
+## 🧰Frameworks and Packages
 <p align=center>
 <img alt="Django" src="https://img.shields.io/badge/Django-1AD75C?style=for-the-badge&logo=django">
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-C28E0D?style=for-the-badge&logo=firebase">
