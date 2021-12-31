@@ -65,11 +65,6 @@
 
 ## Learning In Progress
 <code><img alt="AWS" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<code><img alt="bootstrap" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<code><img alt="powerBI" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
-<code><img alt="R" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
-<code><img alt="PHP" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-<code><img alt=".net" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
 
 <i style="font-size:2em">good software developers can quickly learn new input in no time</i>
 <br>
@@ -80,11 +75,12 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yongqinjian&repo=social-distribution)](https://github.com/yongqinjian/social-distribution)
 
 # Yongqin's Stats
-![Yongqin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongqinjian&show_icons=true)
+|GitHub|LeetCode|
+|------|--------|
+|![Yongqin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongqinjian&show_icons=true)|![Yongqin's LeetCode Stats](https://readme-stats-curly210102.vercel.app/api/leetcode?username=PuPuBear)|
+|![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yongqinjian) | |
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yongqinjian)  
 
-[![Yongqin's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=PuPuBear)]
 
 
 
