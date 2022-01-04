@@ -65,6 +65,7 @@
 
 ## Learning In Progress
 <code><img alt="AWS" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 
 <i style="font-size:2em">good software developers can quickly learn new input in no time</i>
 <br>
