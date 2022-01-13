@@ -70,6 +70,7 @@
 <code><img alt="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img alt="TypeScript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
 <code><img alt="TailwindCss" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+
 <i style="font-size:2em">good software developers can quickly learn new input in no time</i>
 <br>
 <br>
