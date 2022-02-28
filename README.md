@@ -1,7 +1,7 @@
 # Hey there, welcome 👋
 
 ### I'm Cody(Yongqin) Jian  
-- 🎓 Graduated from *University of Alberta* (2021 April)  
+- 🎓 Graduated from *University of Alberta* (2021 June)  
 - 💻 BSc Specialization in Computing Science  
 - 😏 Passionate about Programming  
 
