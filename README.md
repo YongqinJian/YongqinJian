@@ -33,6 +33,7 @@
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-C28E0D?style=for-the-badge&logo=firebase">
   <img alt="Flask" src="https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask&logoColor=white">
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
   <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy">
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-E7E8DE?style=for-the-badge&logo=pytorch">
