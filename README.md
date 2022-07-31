@@ -22,6 +22,7 @@
   <a href="https://daringfireball.net/projects/markdown/basics"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
   <a href="https://nodejs.org/en/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="https://reactjs.org/"><img alt="react" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" /></a>
   <a href="https://www.w3schools.com/sql/"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"></a>
 
 </p><br>
@@ -67,7 +68,7 @@
 ## Learning In Progress
 <code><img alt="AWS" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img alt="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<!-- <code><img alt="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code> -->
 <code><img alt="TypeScript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
 <code><img alt="TailwindCss" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
 
